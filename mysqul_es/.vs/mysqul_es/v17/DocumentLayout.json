@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\mysqul_es.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|solutionrelative:mysqul_es\\mysqul_es.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|solutionrelative:mysqul_es\\estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|solutionrelative:mysqul_es\\estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\conexion_db.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|solutionrelative:mysqul_es\\conexion_db.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\conexion_db.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3622B98-B311-4885-8DB2-D8E3423CA4F4}|mysqul_es\\mysqul_es.vcxproj|solutionrelative:mysqul_es\\conexion_db.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conexion_db.cpp",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\conexion_db.cpp",
+              "RelativeDocumentMoniker": "mysqul_es\\conexion_db.cpp",
+              "ToolTip": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\conexion_db.cpp",
+              "RelativeToolTip": "mysqul_es\\conexion_db.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T04:46:50.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "conexion_db.h",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\conexion_db.h",
+              "RelativeDocumentMoniker": "mysqul_es\\conexion_db.h",
+              "ToolTip": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\conexion_db.h",
+              "RelativeToolTip": "mysqul_es\\conexion_db.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T04:16:52.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "estudiante.cpp",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\estudiante.cpp",
+              "RelativeDocumentMoniker": "mysqul_es\\estudiante.cpp",
+              "ToolTip": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\estudiante.cpp",
+              "RelativeToolTip": "mysqul_es\\estudiante.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T02:04:33.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estudiante.h",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\estudiante.h",
+              "RelativeDocumentMoniker": "mysqul_es\\estudiante.h",
+              "ToolTip": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\estudiante.h",
+              "RelativeToolTip": "mysqul_es\\estudiante.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAADpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T01:21:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mysqul_es.cpp",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\mysqul_es.cpp",
+              "RelativeDocumentMoniker": "mysqul_es\\mysqul_es.cpp",
+              "ToolTip": "C:\\Users\\CARLOS\\Desktop\\TAREA\\mysqul_es\\mysqul_es\\mysqul_es.cpp",
+              "RelativeToolTip": "mysqul_es\\mysqul_es.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T23:22:16.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

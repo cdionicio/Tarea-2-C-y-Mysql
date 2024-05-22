@@ -1,0 +1,12 @@
+﻿  conexion_db.cpp
+  estudiante.cpp
+C:\Users\CARLOS\Desktop\TAREA\mysqul_es\mysqul_es\conexion_db.h(2,10): error C1083: No se puede abrir el archivo incluir: '"mysql"h': No such file or directory
+  (compilando archivo de origen "conexion_db.cpp")
+  
+C:\Users\CARLOS\Desktop\TAREA\mysqul_es\mysqul_es\estudiante.h(5,10): error C1083: No se puede abrir el archivo incluir: 'ConexionBD.h': No such file or directory
+  (compilando archivo de origen "estudiante.cpp")
+  
+  mysqul_es.cpp
+C:\Users\CARLOS\Desktop\TAREA\mysqul_es\mysqul_es\estudiante.h(5,10): error C1083: No se puede abrir el archivo incluir: 'ConexionBD.h': No such file or directory
+  (compilando archivo de origen "mysqul_es.cpp")
+  
